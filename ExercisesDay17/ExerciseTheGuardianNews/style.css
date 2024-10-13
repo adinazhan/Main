@@ -1,0 +1,10 @@
+body {
+  width: 100wh;
+  height: 100vh;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap: 50px;
+}
